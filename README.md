@@ -1,9 +1,11 @@
 <a name="readme-top"></a>
 <div>
- <h3><b>Microverse README Template</b></h3>
+ <h3><b>Hello Microverse Project</b></h3>
 </div>
+
 <!-- TABLE OF CONTENTS -->
 # 📗 Table of Contents
+
 - [📖 About the Project](#about-project)
 - [💻 Getting Started](#getting-started)
  - [Setup](#setup)
@@ -23,8 +25,10 @@
 > This is my first microverse project to show how I use tools.
 **Hello Microverse** is a great project to learn about Linters.
 This project is compiled using HTML, CSS and JS.
+
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
+
 - **It has MIT License**
 - **It has HTML files**
 - **It has CSS files**
@@ -72,39 +76,52 @@ To run the project, execute the following command:
  rails server
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHORS -->
 ## 👥 Authors <a name="authors"></a>
+
 👤 **Author1**
 - GitHub: [@AdrianScharff](https://github.com/AdrianScharff)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/adrián-juárez-17a51b263)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- FUTURE FEATURES -->
 ## 🔭 Future Features <a name="future-features"></a>
+
 - [ ] **Javascript files**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- SUPPORT -->
 ## ⭐ Show your support <a name="support"></a>
+
 If you like this project rate a star⭐
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank microverse guiding me through this project.
+
+I would like to thank Microverse guiding me through this project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- FAQ (optional) -->
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
 - **Is this project work?**
- - No, it is template project
+ No, it is template project
 - **Is development finished?**
- - Not yet.
+ Not yet.
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+ 
 <!-- LICENSE -->
 ## 📝 License <a name="license"></a>
+
 This project is [MIT](./MIT.md) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
